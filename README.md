@@ -35,7 +35,7 @@ cd myapex
 3. Compile the code 
 
 ```
-g++ Main.cpp -lX11
+sudo g++ Main.cpp -lX11
 ```
 
 4. Go to your Steam and run Apex Legends
